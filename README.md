@@ -1,3 +1,73 @@
+# Generated On: Wednesday, 18 June 2025, 20:03 Tehran (UTC+3:30).
+
+> [!CAUTION]
+> Triggered by: schedule
+
+<br><br>
+
+### ESET VPN ACCESS CODES
+
+> [!NOTE]
+> The access codes for ESET VPN will expire in 24 hours.
+> Each code is valid for login on only one device.
+
+```ruby
+DODN4MTT54
+9Z3GHFH51I
+J7UU8A2FL5
+CRYZ15DPV0
+IJK6CSP16S
+STQ2Y0J1Q9
+LUFZ9I4J48
+8R1N7PUM4O
+67REQMLM9Q
+P5864OU7MW
+```
+
+<br>
+
+### ESET SECURITY LICENSE
+
+**Name:** ESET Small Business Security
+**Expiry:** 18.07.2025
+**License Key:**
+
+```POV-Ray SDL
+DDRW-X6RS-NKR9-N4JH-76GJ
+```
+
+<br>
+
+### ESET ACCOUNT
+
+**Email:**
+
+```CSS
+sahan.nivan@fsitip.com
+```
+
+**Password:**
+
+```POV-Ray SDL
+(lHQ06}33.49P
+```
+
+<br>
+
+### All about ESET VPN
+
+
+[![Generic badge](https://img.shields.io/badge/Download-Android-green.svg)](https://play.google.com/store/apps/details?id=com.eset.vpn)
+[![Generic badge](https://img.shields.io/badge/Download-ios-white.svg)](https://apps.apple.com/us/app/eset-vpn/id6463002278)
+[![Generic badge](https://img.shields.io/badge/Download-windows-blue.svg)](https://download.eset.com/com/eset/apps/home/vpn/windows/latest/eset_vpn_installer.exe)
+  
+
+[READ HERE](https://t.me/F_NiREvil/2113)
+
+---
+
+<br><br>
+
 # Generated On: Wednesday, 18 June 2025, 12:04 Tehran (UTC+3:30).
 
 > [!CAUTION]
