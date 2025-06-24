@@ -1,4 +1,4 @@
-# Generated On: Monday, 23 June 2025, 20:03 Tehran (UTC+3:30).
+# Generated On: Tuesday, 24 June 2025, 05:35 Tehran (UTC+3:30).
 
 > [!CAUTION]
 > Triggered by: schedule
@@ -12,16 +12,16 @@
 > Each code is valid for login on only one device.
 
 ```ruby
-W1PR6F6XAU
-IWHL3MI80P
-61RZDAHEDP
-DZWQZLYO4D
-Q42B0PPZWE
-0NQXLLFLIX
-KW9Y1EI5IP
-ZCES86TBU5
-SEC0XRXFSS
-LVIANHG2IS
+L7EF9GG8M0
+KM6R9HLDCY
+HSM3X2BKON
+QK1OINT5UX
+49LVHJRJ69
+1KO1XPXUWE
+6HIZW5KB8Q
+62IMUVEGJU
+FUTJUZTZQ6
+EOOD00OE90
 ```
 
 <br>
@@ -29,11 +29,11 @@ LVIANHG2IS
 ### ESET SECURITY LICENSE
 
 **Name:** ESET Small Business Security
-**Expiry:** 23.07.2025
+**Expiry:** 24.07.2025
 **License Key:**
 
 ```POV-Ray SDL
-SKK9-X8MN-SCRE-FSKM-HN5G
+5FPH-X7HR-2DXG-TBAD-W5F5
 ```
 
 <br>
@@ -43,58 +43,16 @@ SKK9-X8MN-SCRE-FSKM-HN5G
 **Email:**
 
 ```CSS
-jeremih.ziyon@fsitip.com
+kaidon.guru@fsitip.com
 ```
 
 **Password:**
 
 ```POV-Ray SDL
-4nDe|TQ*3Q8u7812X>
+zv9r0k5MnU(e
 ```
 
 <br>
-
-### All about ESET VPN
-
-
-[![Generic badge](https://img.shields.io/badge/Download-Android-green.svg)](https://play.google.com/store/apps/details?id=com.eset.vpn)
-[![Generic badge](https://img.shields.io/badge/Download-ios-white.svg)](https://apps.apple.com/us/app/eset-vpn/id6463002278)
-[![Generic badge](https://img.shields.io/badge/Download-windows-blue.svg)](https://download.eset.com/com/eset/apps/home/vpn/windows/latest/eset_vpn_installer.exe)
-  
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Monday, 23 June 2025, 12:05 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-
-[![Generic badge](https://img.shields.io/badge/Download-Android-green.svg)](https://play.google.com/store/apps/details?id=com.eset.vpn)
-[![Generic badge](https://img.shields.io/badge/Download-ios-white.svg)](https://apps.apple.com/us/app/eset-vpn/id6463002278)
-[![Generic badge](https://img.shields.io/badge/Download-windows-blue.svg)](https://download.eset.com/com/eset/apps/home/vpn/windows/latest/eset_vpn_installer.exe)
-  
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Monday, 23 June 2025, 05:43 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
 
 ### All about ESET VPN
 
